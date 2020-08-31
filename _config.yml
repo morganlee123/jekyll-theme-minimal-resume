@@ -1,16 +1,15 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Morgan Sandler
+description: Computer Science Student Interested in Aerospace 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://morganlsandler.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+username: Morgan Sandler 
+user_description: Third Year Student at Michigan State University studying Computer Science and Astrophysics. After just recently completing a successful internship with Quicken Loans over the summer of 2020, I now aspire to find an internship in the aerospace industry to pursue my fascination in space/tech. I have a passion for all things technology, I love traveling, and I enjoy solving all the complex puzzles the universe has to offer 
+user_title: Software Engineer Intern
+email: mailto:msandler8@gmail.com 
+github:  https://www.github.com/morganlee123
+linkedin: https://www.linkedin.com/in/morgan-sandler
 
 exclude: ['package.json', 'src' , 'node_modules']
